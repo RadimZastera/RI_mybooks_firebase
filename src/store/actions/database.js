@@ -7,6 +7,7 @@ export const saveComment = (newComment) => async dispatch => {
 };
 
 export const loginToDB = (email, password) => async dispatch => {
+    // i am logged in but subsequent calls do no go through...  giving up - probably firebase rules
     firebase.auth().signInWithEmailAndPassword(email, password).then(result => {
             console.log(result);
             dispatch({
