@@ -6,3 +6,10 @@ původní projekt je na https://github.com/3KniGHtcZ/RI_mybooks tak je jednoduch
 
 co se mi nepodarilo zprovoznit je auth. komunikaces firebase.  Dle dokumentace jsem se tam prihlasil ale nastavovani rules bylo nad 
 casovy usek k tomuto venovany.
+
+do casti napojene na firebase se de pres tlacitko s komentarem, cast s plusem jede pres nejaky rest backend
+
+ 
+
+
+

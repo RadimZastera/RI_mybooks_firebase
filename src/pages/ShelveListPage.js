@@ -39,7 +39,7 @@ class ShelveListPage extends React.Component {
                         <button>Add a book</button>
                     </Link>
                 </div>
-                <div className="open-comments">
+                <div className="open-comments" title={'Add comment'}>
                     <Link to="/comments">
                         <button>Add comment</button>
                     </Link>
